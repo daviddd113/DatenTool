@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly as px
 
 # Farbdefinitionen
 DARKORANGE1 = "#FF7F00"
