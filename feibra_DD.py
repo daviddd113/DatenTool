@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from typing import Dict, List
+import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+import xlsxwriter
+from io import BytesIO
 from datetime import datetime, timedelta
 
 # Farbdefinitionen
