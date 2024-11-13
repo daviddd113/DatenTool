@@ -1,5 +1,6 @@
 streamlit
 pandas
-plotly.express
+import plotly.express as px
 openpyxl
-bytesio
+BytesIO
+xlsxwriter
